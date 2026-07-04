@@ -1,4 +1,4 @@
-# 🎬 Phân tích hành vi mua vé xem phim
+# Phân tích hành vi mua vé xem phim
 
 ## Mục tiêu project
 
