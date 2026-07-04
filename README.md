@@ -59,6 +59,4 @@ Success rate được theo dõi theo tháng, kèm phân loại lỗi giao dịch
 
 ## Công cụ sử dụng
 Python (Pandas, NumPy) · Matplotlib, Seaborn để trực quan hóa · Google Colab
-
----
-📓 Notebook đầy đủ: xem file `.ipynb` trong repo (kèm output và biểu đồ đã chạy)
+: xem file `.ipynb` trong repo (kèm output và biểu đồ đã chạy)
